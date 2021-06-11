@@ -1,0 +1,45 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=El+Messiri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=El+Messiri&family=Jost:wght@300&display=swap');
+
+
+* {
+    font-family: 'El Messiri', sans-serif;
+}
+
+body {
+    background-color:darkslategrey
+}
+li {
+    color: darkslategrey;
+    font-weight: bold;
+    font-family: 'Jost', sans-serif;;
+
+    
+
+
+}
+.card {
+    background-color: rgb(212, 192, 245);
+    color: darkslategrey;
+    font-family: 'El Messiri', sans-serif;
+    text-align: center;
+    box-shadow: 5px 10px 5px #888888;
+
+
+}
+
+.card-text {
+    padding: 10px;
+    font-family: 'Jost', sans-serif;
+}
+
+h1 {
+    height: 150px;
+    font-size: 52px;
+    color:rgb(212, 192, 245);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    margin: 25px 0 0;
+    font-family: 'El Messiri', sans-serif;
+}

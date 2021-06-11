@@ -1,15 +1,17 @@
 <!-- Starter file provided by Instructor (03/09/2021) AC -->
 
 <div>
-    <div>
-        <h2>{{ name }}</h2>
-        <h3>{{ role }}</h3>
+  <div class="card" style="width: 18rem">
+    <div class="card-body">
+      <h2 class="card-title">{{ name }}</h2>
+      <h3 class="card-text"><i class="fas fa-clipboard"></i> {{ role }}</h3>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">ID: {{ id }}</li>
+        <li class="list-group-item">
+          Email: <a href="mailto:{{ email }}">{{ email }}</a>
+        </li>
+        <li class="list-group-item">Office number: {{ officeNumber }}</li>
+      </ul>
     </div>
-    <div>
-        <ul>
-            <li>ID: {{ id }}</li>
-            <li>Email: <a href="mailto:{{ email }}">{{ email }}</a></li>
-            <li>Office number: {{ officeNumber }}</li>
-        </ul>
-    </div>
+  </div>
 </div>
