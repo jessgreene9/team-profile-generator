@@ -1,4 +1,4 @@
-// Starter file provided by Instructor (03/09/2021) AC
+
 
 const Employee = require("../lib/Employee");
 
@@ -49,6 +49,6 @@ test("Can get email via getEmail()", () => {
 
 test("getRole() should return \"Employee\"", () => {
     const getEmployee = "Employee";
-    const newEmployee = new Employee("Seth", 30, "example@example.com");
+    const newEmployee = new Employee("name", 30, "example@example.com");
     expect(newEmployee.getRole()).toEqual(getEmployee);
 });
