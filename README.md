@@ -24,12 +24,12 @@ This application is a Node.js command-line application that prompts the user to 
   
 
 ## Demonstration
-[Click here for Demo](https://drive.google.com/file/d/1NWh1fGOxgEesTAuijxn3xwcl8CoD7iGa/view)
+[Click here for Demo](https://drive.google.com/file/d/1uwS60j1MIAKwZXW2ZlMwv7PyCi6x9sVa/view)
 
 
 ## Screenshots
 <img src="./assets/images/screenshot.png">
-<img src="./assets/images/terminal">
+<img src="./assets/images/terminal.png">
 
 
 ## Installation
@@ -66,7 +66,7 @@ This project was made with help from:
 ## Github
 Below is the link to the github repository for this project
 
-<https://github.com/jessgreene9/README-generator>
+<https://github.com/jessgreene9/team-profile-generator>
 
 ## Contact
 
