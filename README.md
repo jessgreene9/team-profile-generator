@@ -26,6 +26,7 @@ This application is a Node.js command-line application that prompts the user to 
 ## Demonstration
 [Click here for Demo](https://drive.google.com/file/d/1uwS60j1MIAKwZXW2ZlMwv7PyCi6x9sVa/view)
 
+The  sample html that was generated using the application is in the output folder of the repository.
 
 ## Screenshots
 <img src="./Assets/images/screenshot.png">
