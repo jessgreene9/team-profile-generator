@@ -1,4 +1,3 @@
-// Starter file provided by Instructor (03/09/2021) AC
 
 const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
@@ -12,6 +11,7 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 const render = require("./lib/htmlRenderer");
 
+//creates an output folder if one doesn't exist
 if (!fs.existsSync(OUTPUT_DIR)){
   fs.mkdirSync(OUTPUT_DIR);
 };
