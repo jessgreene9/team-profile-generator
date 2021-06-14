@@ -28,8 +28,8 @@ This application is a Node.js command-line application that prompts the user to 
 
 
 ## Screenshots
-<img src="./assets/images/screenshot.png">
-<img src="./assets/images/terminal.png">
+<img src="./Assets/images/screenshot.png">
+<img src="./Assets/images/terminal.png">
 
 
 ## Installation
